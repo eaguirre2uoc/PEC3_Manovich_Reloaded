@@ -1,5 +1,10 @@
 # PEC3: Las gafas de Manovich
 
+Autora: Eli Aguirre
+Asignatura: Cultura Digital
+Grado: Multimedia
+Año: 2025
+
 ## Introducción
 
 > Lev Manovich comenta en “El software toma el mando” que los medios ya no funcionan de manera aislada, sino que se hibridan a través del software [^1] [^2]. Esta convergencia permite que las disciplinas como la moda, el diseño 3D o la realidad aumentada se integren en un mismo ecosistema mediado por el código. La moda digital, en particular, se convierte en un campo privilegiado para observar cómo el software reconfigura los procesos creativos y la propia construcción de identidad.
